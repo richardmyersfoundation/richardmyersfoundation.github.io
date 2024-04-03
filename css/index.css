@@ -1,0 +1,155 @@
+/* Background: #7FA9D4; sample color */
+
+
+*{
+    box-sizing: border-box;
+}
+
+#picture-action img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#picture-older-couple{
+    margin-top: 25%;
+
+}
+
+.statement{
+    box-shadow: 60px 21px 15px 3px #000000;
+    border-radius: 50px;
+    border: 3px solid black;
+    justify-content: center;
+    display: grid;
+    width: 600px;
+    height: auto;
+    padding-left: 25px;
+}
+.statement2{
+    box-shadow: 60px 21px 15px 3px #000000;
+    border-radius: 50px;
+    border: 3px solid black;
+    justify-content: center;
+    display: grid;
+    width: 600px;
+    height: auto;
+}
+
+#vision-statement h2{
+    text-align: center;
+    margin: 0 auto;
+    height:100px;
+    width: 232px;
+    padding: 1em;
+}
+
+#vision-statement p{
+    width: auto;
+    padding-left: 25px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+#mission-statement{
+    box-shadow: 25px 21px 15px 3px #000000;
+    border-radius: 2rem;
+    border: 2px solid black;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    width: 600px;
+    height:auto;
+}
+
+#mission-statement h2{
+    margin: 0 auto;
+    text-align: center;
+    padding: 1em;
+}
+
+#mission-statement-description{
+    margin-left: 10px;
+    padding: 25px;
+    border-radius: 50px;
+
+}
+/* 
+#communityPartners{
+    box-shadow: 60px 21px 15px 3px #000000;
+    border-radius: 50px;
+    border: 3px solid black;
+    Background: #7FA9D4; 
+    color: black;
+}
+
+#type-of-organization{
+        box-shadow: 60px 21px 15px 3px #000000;
+        border-radius: 50px;
+        border: 3px solid black;
+        background: #7FA9D4;
+        height: auto;
+        width: 350px;
+}
+
+
+#population-served{
+    box-shadow: 60px 21px 15px 3px #000000;
+    border-radius: 50px;
+    border: 3px solid black;
+    background: #7FA9D4;
+    height: auto;
+    width: auto;
+    padding-right: 40px;
+    display: block;
+    h2{
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    img{
+        max-width: 600px;
+    }
+}
+
+#RMF-programs{
+    box-shadow: 60px 21px 15px 3px #000000;
+    border-radius: 50px;  border: 3px solid black;
+    width: fit-content;
+    h2{
+        padding-bottom: 25px;
+    }
+
+
+}
+#RMF-program #program-list{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    h2{
+        padding-bottom: 25px;
+    }
+
+}
+#image{
+    padding-top: 100px;
+    border-radius: 10px;
+
+}
+
+footer{
+    background-color: #7FA9D4;
+    padding: 25px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 60px 21px 15px 3px #000000;
+    border: 3px solid black;
+    margin-top: 25px;
+    margin-bottom: 25px;
+} */
